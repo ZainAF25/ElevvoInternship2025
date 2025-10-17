@@ -76,7 +76,7 @@ The dashboard visualizes total revenue, regional performance, product-level sale
 
 ## 🧰 Tools Summary
 - **Languages:** Python (Pandas, Matplotlib, Seaborn, Statsmodels), SQL  
-- **Tools:** Power BI, SQLite  
+- **Tools:**  VScode, Power BI
 - **Focus Areas:** Data Cleaning, Visualization, Time Series Forecasting, SQL Analytics
 
 ---
@@ -84,7 +84,7 @@ The dashboard visualizes total revenue, regional performance, product-level sale
 ## 🚀 Getting Started
 To clone and explore:
 ```bash
-git clone https://github.com/<your-username>/ElevvoInternship.git
+git clone https://github.com/ZainAF25/ElevvoInternship2025.git
 cd ElevvoInternship
 ```
 
