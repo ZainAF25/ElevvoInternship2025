@@ -85,7 +85,7 @@ The dashboard visualizes total revenue, regional performance, product-level sale
 To clone and explore:
 ```bash
 git clone https://github.com/ZainAF25/ElevvoInternship2025.git
-cd ElevvoInternship
+cd ElevvoInternship2025
 ```
 
 ---
